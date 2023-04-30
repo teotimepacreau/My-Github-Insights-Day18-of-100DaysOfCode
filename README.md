@@ -1,4 +1,4 @@
-# My Github Insights: profile and list of my repositories
+# My Github Insights : profile and list of my repositories
 https://user-images.githubusercontent.com/95431443/235360194-8a853abb-80ab-47fa-bbb1-43ad98df4e53.mp4
 
 # Project goals
